@@ -1,0 +1,4 @@
+suites:
+    main:
+        namespace: Aboudev\SyliusShopPlugin
+        psr4_prefix: Aboudev\SyliusShopPlugin
